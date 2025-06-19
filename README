@@ -16,7 +16,7 @@ Run SQL `INSERT` statements to populate tables with:
 - Quotation items
 - Invoices
 
-### 3. (Optional) Add Procedures, Triggers or Functions
+### 3. Add Procedures, Triggers or Functions
 
 You can add business logic such as:
 - Auto-generating invoice numbers
@@ -49,7 +49,7 @@ You can add business logic such as:
 
 ## 🔧 steps
 
-(Tables.sql)[Tables.sql] → sample_data.sql → procedures.sql → triggers.sql → queries.sql
+>[Tables](Tables.sql) → sample_data.sql → procedures.sql → triggers.sql → queries.sql
 
 
 
