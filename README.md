@@ -47,9 +47,19 @@ You can add business logic such as:
 
 ---
 
-## 🔧 steps
+## 🔧 steps with files
 
->[Tables](Tables.sql) → sample_data.sql → procedures.sql → triggers.sql → queries.sql
+ [Tables.sql](Tables.sql) → [sample data for testing](sample_data.sql) → [procedures](procedures.sql)→[triggers in it](triggers.sql) triggers.sql →  [queries for testin](queries.sql)
+
+> [Tables required ](Tables.sql) 
+
+> [sample data for testing](sample_data.sql)
+
+> [procedures](procedures.sql)
+
+> [triggers in it](triggers.sql)
+
+> [queries for testin](queries.sql)
 
 
 
